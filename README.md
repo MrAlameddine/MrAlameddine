@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**MrAlameddine/MrAlameddine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Saad Alddine. I'm an aspiring web developer, actively learning and honing my skills in HTML, CSS, and JavaScript. I'm passionate about creating dynamic and interactive web applications that provide a great user experience.
 
-Here are some ideas to get you started:
+## Skills 🚀
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning 📚
+I'm currently focused on expanding my knowledge of JavaScript and exploring its various frameworks and libraries.
+
+## Contact Me 📫
+Feel free to reach out to me with any questions, or just to connect!
