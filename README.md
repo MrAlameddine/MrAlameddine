@@ -10,10 +10,11 @@
 My name is Saad Alddine. I'm an aspiring web developer, actively learning and honing my skills in HTML, CSS, and JavaScript. I'm passionate about creating dynamic and interactive web applications that provide a great user experience.
 
 ## Skills 🚀
-- HTML
-- CSS
-- JavaScript
-
+<p align='center'>
+  <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
+  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=2aa889"/>&nbsp;
+  <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=2aa889"/>&nbsp;
+</p>
 ## Learning 📚
 I'm currently focused on expanding my knowledge of JavaScript and exploring its various frameworks and libraries.
 
