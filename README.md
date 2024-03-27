@@ -17,7 +17,7 @@ My name is Saad Alddine. I'm an aspiring web developer, actively learning and ho
   <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=2aa889"/>&nbsp;
 </p>
 ##
-    [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrAlameddine&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrAlameddine&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
 ## Learning 📚
 I'm currently focused on expanding my knowledge of JavaScript and exploring its various frameworks and libraries.
