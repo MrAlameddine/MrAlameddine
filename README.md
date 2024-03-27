@@ -27,6 +27,7 @@ My name is Saad Alddine. I'm an aspiring web developer, actively learning and ho
 
     
 ![MrAlameddines GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAlameddine&count_private=true&show_icons=true&theme=noctis_minimus)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAlameddine&layout=compact&theme=noctis_minimus)
 
 
 
